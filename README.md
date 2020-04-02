@@ -46,6 +46,8 @@
 * [Geopy](https://geopy.readthedocs.io/en/stable/) - Used for geocoding and reverse geocoding
 * [Folium](https://python-visualization.github.io/folium/) - Used for rendering of map
 * [Osmnx](https://osmnx.readthedocs.io/en/stable/) - Graph creation
+* [LTADataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport/) - Bus routes
+
 
 ## Project Details
 
