@@ -1,6 +1,4 @@
-# ICT1008 Python Project (DSA)
-
-## Table of Contents <!-- omit in toc -->
+# ICT1008 Python Project 
 
 Contents | Built With 
 ---------|-------------
