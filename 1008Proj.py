@@ -2,7 +2,7 @@ from flask import Flask, request, render_template
 from geopy.geocoders import Nominatim
 from .ASTARTWalk import A_Star_Walk
 from .walk_bus import walk_bus_algor
-from .lrt_bus_walk import lrt_walk
+from .lrt_bus_walk import get_lrt_route, distance
 import networkx as nx
 import osmnx as ox
 import folium
@@ -36,15 +36,22 @@ punggol = (1.403948, 103.909048)
 # PLACE IN INIT
 # =========================================================
 
+take_bus_distance = 150  # in meters. this value is for lrt+bus+walk
+# if destination falls within this distance, user wont take a bus
+
 punggol = (1.4053828, 103.9022239)  # punggol MRT station, change according to whatever coordinates you are using
 G = ox.graph_from_point(punggol, distance=1200, truncate_by_edge=True, network_type="walk",infrastructure='way["highway"]')
 
 G = ox.remove_isolated_nodes(G)
 
 lrt_east = ox.graph_from_file(filename="data\lrt_pg_east.osm",
-                              retain_all="true")  # retain all is impt. I don't know why exactly.
+                              retain_all="true")  # retain all is essential
 lrt_west = ox.graph_from_file(filename="data\lrt_pg_west.osm",
-                              retain_all="true")  # retain all is impt. I don't know why exactly.
+                              retain_all="true")
+
+lrt_exits = ox.graph_from_file(filename="data\lrt_bridges.osm",
+                              retain_all="true")
+
 lrt_stations = nx.compose(lrt_east, lrt_west)
 
 # =========================================================
@@ -95,8 +102,19 @@ def my_form_post():
                 else:
                     folium.PolyLine(finalPath[i], color="blue", weight=2.5, opacity=1).add_to(m)
 
+
         elif (pathTypeController == 'walk_lrt'):
-            finalPath = lrt_walk(G, locationXY, destinationXY, lrt_stations)
+            finalPath = []
+
+            lrtRoute = get_lrt_route(G, locationXY, destinationXY, lrt_stations, lrt_exits)
+            lrtXY = lrtRoute[-1]
+            lastLRT = lrtXY[::-1]  # flip lastLRT for proper XY formatting
+
+            finalPath.append(lrtRoute)
+
+            # call the walking function to get a route from last LRT station to destination
+            finalPath.append(A_Star_Walk(lastLRT, destinationXY))
+
             for i in range(0, len(finalPath)):
                 if i == 0:
                     folium.PolyLine(finalPath[i], color="blue", weight=2.5, opacity=1).add_to(m)
@@ -106,12 +124,28 @@ def my_form_post():
                     folium.PolyLine(finalPath[i], color="blue", weight=2.5, opacity=1).add_to(m)
 
         elif (pathTypeController == 'walk_bus_lrt'):
-            lrtPath = lrt_walk(G, locationXY, destinationXY, lrt_stations)
-            lrtXY = lrtPath[0][-1]
-            folium.PolyLine(lrtPath[0], color="blue", weight=2.5, opacity=1).add_to(m)
-            flippedlrtXY = lrtXY[::-1]
-            finalPath = walk_bus_algor(flippedlrtXY, destinationXY)
-            processed_text = flippedlrtXY
+            lrtPath = get_lrt_route(G, locationXY, destinationXY, lrt_stations, lrt_exits)
+            lrtXY = lrtPath[-1]
+
+            # map the lrt route first
+            folium.PolyLine(lrtPath, color="blue", weight=2.5, opacity=1).add_to(m)
+
+            # run walk_bus on the final LRT station
+            flippedlrtXY = lrtXY[::-1]  # get XY of the last station
+
+            # determine if there is a need to take a bus.
+            print("distance between the two is: ", distance(flippedlrtXY, destinationXY))
+
+            finalPath = []
+
+            if distance(flippedlrtXY, destinationXY) > take_bus_distance:
+                # destination is still 'far'. Route for walk+bus.
+                finalPath = walk_bus_algor(flippedlrtXY, destinationXY)
+            else:
+                # destination is close enough to walk to. Route for walk.
+                finalPath.append(A_Star_Walk(flippedlrtXY, destinationXY))
+
+            #processed_text = flippedlrtXY
             for i in range(0, len(finalPath)):
                 if i == 0:
                     folium.PolyLine(finalPath[i], color="blue", weight=2.5, opacity=1).add_to(m)
@@ -119,8 +153,6 @@ def my_form_post():
                     folium.PolyLine(finalPath[i], color="red", weight=2.5, opacity=1).add_to(m)
                 else:
                     folium.PolyLine(finalPath[i], color="blue", weight=2.5, opacity=1).add_to(m)
-
-
 
             # for i in range(0, len(finalPath)):
             #     if i == 0:
