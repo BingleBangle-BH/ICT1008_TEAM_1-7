@@ -37,7 +37,9 @@
 
     Bryan fill this up
     
-**Do take note that the application will take awhile to start up. Due to the creations of multi-dimensional graphs**
+**Do take note that the application will take a while to start up due to the creations of multi-dimensional graphs.**
+
+**Do note that internet connection is required for this application to run.**
 
 ## Built With
 
@@ -62,6 +64,6 @@ Implementing and plotting network
 **TEAM 1-7** 
 
 1. **Chin Bing Hong** | [@skyarebiue](https://github.com/skyarebiue) | Dijkstra and A* Algorithm, Bus + Walk
-2. **Jack** | [@yolothedino](https://github.com/yolothedino) | Greedy Algorithm, LRT/MRT + Walk
+2. **Chang Lik Jack** | [@yolothedino](https://github.com/yolothedino) | Greedy Algorithm, LRT/MRT + Walk
 3. **Bryan Sim** | [@BryanSim-SIT](https://github.com/BryanSim-SIT)  | GUI
 4. **Miki Tan** | [@MTKL1106](https://github.com/MTKL1106) | 
