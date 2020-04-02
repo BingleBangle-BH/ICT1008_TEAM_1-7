@@ -1,0 +1,529 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='411102707' timestamp='2013-04-21T08:58:52Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4023594' lon='103.8996183' />
+  <node id='411102710' timestamp='2013-04-21T08:58:52Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4027479' lon='103.8985451' />
+  <node id='411102713' timestamp='2013-04-21T08:58:52Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4034934' lon='103.8971042' />
+  <node id='411102715' timestamp='2013-04-21T08:58:52Z' uid='741163' user='JaLooNz' visible='true' version='3' changeset='15807798' lat='1.4037636' lon='103.8969517' />
+  <node id='411102718' timestamp='2013-04-21T08:58:52Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4041724' lon='103.8969466' />
+  <node id='411102721' timestamp='2013-04-21T08:58:52Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4060092' lon='103.8974846' />
+  <node id='411102724' timestamp='2013-04-21T08:58:52Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.40653' lon='103.8976318' />
+  <node id='411102726' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='3' changeset='15807798' lat='1.4109146' lon='103.8998586' />
+  <node id='411102730' timestamp='2017-02-21T19:23:44Z' uid='3317733' user='bpowell1' visible='true' version='4' changeset='46284336' lat='1.4129351' lon='103.9009256' />
+  <node id='411102732' timestamp='2017-02-21T19:23:44Z' uid='3317733' user='bpowell1' visible='true' version='5' changeset='46284336' lat='1.4150251' lon='103.9015465' />
+  <node id='411102735' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='3' changeset='15807798' lat='1.416097' lon='103.9023396' />
+  <node id='411102738' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='4' changeset='61822938' lat='1.4174148' lon='103.9044234' />
+  <node id='411102747' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4174192' lon='103.9053003' />
+  <node id='411102754' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='3' changeset='15807798' lat='1.4154359' lon='103.9077707' />
+  <node id='411102758' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='4' changeset='61822938' lat='1.4145713' lon='103.9075046' />
+  <node id='411102762' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='4' changeset='15807798' lat='1.4122972' lon='103.9063563' />
+  <node id='411102763' timestamp='2012-07-28T04:03:09Z' uid='741163' user='JaLooNz' visible='true' version='6' changeset='12518724' lat='1.4097239' lon='103.9048658' />
+  <node id='411102764' timestamp='2009-05-27T07:51:41Z' uid='101815' user='Pel' visible='true' version='2' changeset='1331474' lat='1.4073624' lon='103.903494' />
+  <node id='411102765' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4056407' lon='103.9024307' />
+  <node id='411102766' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4026665' lon='103.901094' />
+  <node id='411102767' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4023933' lon='103.9008396' />
+  <node id='411102768' timestamp='2013-04-21T08:58:53Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.402181' lon='103.9004468' />
+  <node id='1167584060' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4164667' lon='103.90727' />
+  <node id='1167584063' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4161796' lon='103.9075546' />
+  <node id='1167584068' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4158375' lon='103.9077253' />
+  <node id='1167584069' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4149117' lon='103.9076678' />
+  <node id='1712357001' timestamp='2017-02-21T19:23:44Z' uid='3317733' user='bpowell1' visible='true' version='7' changeset='46284336' lat='1.4157357' lon='103.9020426' />
+  <node id='1712357030' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4166081' lon='103.9070567' />
+  <node id='1712357040' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4167243' lon='103.9067832' />
+  <node id='1712357076' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4169197' lon='103.9034466' />
+  <node id='1712357087' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4173372' lon='103.905557' />
+  <node id='1712357089' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4171543' lon='103.903832' />
+  <node id='1712357091' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4174585' lon='103.9050871' />
+  <node id='1712357092' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4174562' lon='103.9046569' />
+  <node id='1748996469' timestamp='2017-01-12T22:02:46Z' uid='4351550' user='MyWayOrNoHighway' visible='true' version='6' changeset='45118513' lat='1.4119288' lon='103.9004651' />
+  <node id='1748996475' timestamp='2017-02-21T19:23:44Z' uid='3317733' user='bpowell1' visible='true' version='3' changeset='46284336' lat='1.4124985' lon='103.9007162' />
+  <node id='1839721875' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='5' changeset='61822938' lat='1.4169003' lon='103.906453' />
+  <node id='1839721918' timestamp='2013-04-21T08:58:46Z' uid='741163' user='JaLooNz' visible='true' version='4' changeset='15807798' lat='1.4087819' lon='103.8987198' />
+  <node id='1839721922' timestamp='2012-07-28T04:03:09Z' uid='741163' user='JaLooNz' visible='true' version='3' changeset='12518724' lat='1.4127369' lon='103.9065795' />
+  <node id='1839722280' timestamp='2013-04-21T08:58:47Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4036187' lon='103.897014' />
+  <node id='1840734598' timestamp='2020-01-31T08:45:47Z' uid='3191182' user='angys' visible='true' version='4' changeset='80359889' lat='1.4118877' lon='103.9003304'>
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Nibong' />
+    <tag k='name:zh' v='尼蒙' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='ref' v='PW5' />
+    <tag k='station' v='monorail' />
+    <tag k='wikidata' v='Q7024230' />
+    <tag k='wikipedia' v='en:Nibong LRT station' />
+  </node>
+  <node id='1840734600' timestamp='2020-01-31T08:45:47Z' uid='3191182' user='angys' visible='true' version='7' changeset='80359889' lat='1.4168814' lon='103.9066298'>
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Punggol Point' />
+    <tag k='name:zh' v='榜鹅坊' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='ref' v='PW3' />
+    <tag k='station' v='monorail' />
+    <tag k='wikidata' v='Q7260161' />
+    <tag k='wikipedia' v='en:Punggol Point LRT station' />
+  </node>
+  <node id='1840734606' timestamp='2020-01-31T08:45:47Z' uid='3191182' user='angys' visible='true' version='6' changeset='80359889' lat='1.4097076' lon='103.904874'>
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Sam Kee' />
+    <tag k='name:zh' v='三记' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='ref' v='PW1' />
+    <tag k='station' v='monorail' />
+    <tag k='wikidata' v='Q7407731' />
+    <tag k='wikipedia' v='en:Sam Kee LRT station' />
+  </node>
+  <node id='1840734607' timestamp='2020-01-07T12:53:14Z' uid='3191182' user='angys' visible='true' version='7' changeset='79294369' lat='1.4159537' lon='103.9021398'>
+    <tag k='disused' v='no' />
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Samudera' />
+    <tag k='name:ta' v='சமுத்திரா' />
+    <tag k='name:zh' v='山姆' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='ref' v='PW4' />
+    <tag k='station' v='monorail' />
+    <tag k='wikidata' v='Q7410678' />
+    <tag k='wikipedia' v='zh:山姆輕軌站' />
+  </node>
+  <node id='1840734608' timestamp='2020-01-31T08:45:47Z' uid='3191182' user='angys' visible='true' version='5' changeset='80359889' lat='1.4053014' lon='103.8972748'>
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Soo Teck' />
+    <tag k='name:zh' v='树德' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='ref' v='PW7' />
+    <tag k='station' v='monorail' />
+    <tag k='wikidata' v='Q7562630' />
+    <tag k='wikipedia' v='en:Soo Teck LRT station' />
+  </node>
+  <node id='1840734610' timestamp='2020-01-31T08:45:47Z' uid='3191182' user='angys' visible='true' version='5' changeset='80359889' lat='1.4085322' lon='103.8985342'>
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Sumang' />
+    <tag k='name:zh' v='苏芒' />
+    <tag k='public_transport' v='station' />
+    <tag k='railway' v='station' />
+    <tag k='ref' v='PW6' />
+    <tag k='station' v='monorail' />
+    <tag k='wikidata' v='Q7636947' />
+    <tag k='wikipedia' v='en:Sumang LRT station' />
+  </node>
+  <node id='1840734614' timestamp='2020-01-31T08:45:47Z' uid='3191182' user='angys' visible='true' version='8' changeset='80359889' lat='1.4127544' lon='103.9066258'>
+    <tag k='disused:railway' v='station' />
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Teck Lee (Not In Service)' />
+    <tag k='name:zh' v='德利（暂缓开通）' />
+    <tag k='public_transport' v='station' />
+    <tag k='ref' v='PW2' />
+    <tag k='station' v='monorail' />
+    <tag k='wikidata' v='Q7692707' />
+    <tag k='wikipedia' v='en:Teck Lee LRT station' />
+  </node>
+  <node id='2085848759' timestamp='2013-04-21T08:58:48Z' uid='741163' user='JaLooNz' visible='true' version='2' changeset='15807798' lat='1.4021705' lon='103.9002053' />
+  <node id='2274881946' timestamp='2013-04-21T08:54:51Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4022493' lon='103.8999376' />
+  <node id='2274881964' timestamp='2013-04-21T08:54:51Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4022767' lon='103.9006861' />
+  <node id='2274882038' timestamp='2013-04-21T08:54:54Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4023736' lon='103.900219' />
+  <node id='2274882056' timestamp='2013-04-21T08:54:55Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4023973' lon='103.900423' />
+  <node id='2274882069' timestamp='2013-04-21T08:54:55Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4024136' lon='103.8999912' />
+  <node id='2274882119' timestamp='2013-04-21T08:54:58Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4024701' lon='103.9006161' />
+  <node id='2274882141' timestamp='2013-04-21T08:54:58Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4025029' lon='103.8996596' />
+  <node id='2274882241' timestamp='2013-04-21T08:55:02Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.402634' lon='103.900802' />
+  <node id='2274882434' timestamp='2013-04-21T08:55:08Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4028016' lon='103.9009349' />
+  <node id='2274882492' timestamp='2013-04-21T08:55:11Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4028717' lon='103.8986071' />
+  <node id='2274882650' timestamp='2013-04-21T08:55:16Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4030588' lon='103.8976765' />
+  <node id='2274882753' timestamp='2013-04-21T08:55:20Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4031748' lon='103.8977422' />
+  <node id='2274882756' timestamp='2013-04-21T08:55:20Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4031787' lon='103.8973419' />
+  <node id='2274882847' timestamp='2013-04-21T08:55:23Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4032727' lon='103.897463' />
+  <node id='2274882862' timestamp='2013-04-21T08:55:24Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4032959' lon='103.8971268' />
+  <node id='2274882934' timestamp='2013-04-21T08:55:27Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4033809' lon='103.897235' />
+  <node id='2274882961' timestamp='2013-04-21T08:55:28Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4034221' lon='103.8970018' />
+  <node id='2274883080' timestamp='2013-04-21T08:55:32Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4035715' lon='103.8969052' />
+  <node id='2274883134' timestamp='2013-04-21T08:55:35Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4036483' lon='103.9016317' />
+  <node id='2274883267' timestamp='2013-04-21T08:55:37Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4037466' lon='103.8968382' />
+  <node id='2274883357' timestamp='2013-04-21T08:55:39Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4037978' lon='103.9014852' />
+  <node id='2274883438' timestamp='2013-04-21T08:55:41Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4039372' lon='103.9017148' />
+  <node id='2274883439' timestamp='2013-04-21T08:55:41Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4039377' lon='103.9016149' />
+  <node id='2274883456' timestamp='2013-04-21T08:55:42Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4039758' lon='103.8969103' />
+  <node id='2274883463' timestamp='2013-04-21T08:55:43Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4039861' lon='103.8968137' />
+  <node id='2274883603' timestamp='2013-04-21T08:55:48Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4041883' lon='103.8968498' />
+  <node id='2274883752' timestamp='2013-04-21T08:55:53Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4043864' lon='103.9019645' />
+  <node id='2274883772' timestamp='2013-04-21T08:55:55Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4044217' lon='103.9018835' />
+  <node id='2274883899' timestamp='2013-04-21T08:56:00Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4046303' lon='103.9019595' />
+  <node id='2274884006' timestamp='2013-04-21T08:56:03Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4048461' lon='103.902302' />
+  <node id='2274884034' timestamp='2013-04-21T08:56:04Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4049804' lon='103.8971667' />
+  <node id='2274884038' timestamp='2013-04-21T08:56:04Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4049935' lon='103.9020857' />
+  <node id='2274884044' timestamp='2013-04-21T08:56:04Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4050049' lon='103.8970791' />
+  <node id='2274884357' timestamp='2013-04-21T08:56:11Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4055467' lon='103.9026898' />
+  <node id='2274884362' timestamp='2013-04-21T08:56:11Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4055535' lon='103.8973393' />
+  <node id='2274884379' timestamp='2013-04-21T08:56:12Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4055792' lon='103.8972466' />
+  <node id='2274884573' timestamp='2013-04-21T08:56:15Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.405906' lon='103.9027954' />
+  <node id='2274884600' timestamp='2013-04-21T08:56:16Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4060174' lon='103.9027672' />
+  <node id='2274884602' timestamp='2013-04-21T08:56:16Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4060223' lon='103.8973899' />
+  <node id='2274884681' timestamp='2013-04-21T08:56:20Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4063676' lon='103.9029617' />
+  <node id='2274884731' timestamp='2013-04-21T08:56:21Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4065386' lon='103.8975939' />
+  <node id='2274884769' timestamp='2013-04-21T08:56:22Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4068883' lon='103.897767' />
+  <node id='2274884770' timestamp='2013-04-21T08:56:22Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4068965' lon='103.8977315' />
+  <node id='2274884782' timestamp='2013-04-21T08:56:24Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4070234' lon='103.9034045' />
+  <node id='2274884807' timestamp='2013-04-21T08:56:24Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4075176' lon='103.8980494' />
+  <node id='2274884810' timestamp='2013-04-21T08:56:25Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4075458' lon='103.8979893' />
+  <node id='2274884820' timestamp='2013-04-21T08:56:25Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4077889' lon='103.9038273' />
+  <node id='2274884838' timestamp='2013-04-21T08:56:25Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4088126' lon='103.8986379' />
+  <node id='2274884850' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.409351' lon='103.8989996' />
+  <node id='2274884851' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.409369' lon='103.8989649' />
+  <node id='2274884858' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4098593' lon='103.905019' />
+  <node id='2274884865' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4109451' lon='103.8997641' />
+  <node id='2274884866' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4114111' lon='103.9059499' />
+  <node id='2274884867' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4119792' lon='103.9003219' />
+  <node id='2274884868' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4122653' lon='103.9064437' />
+  <node id='2274884869' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4123166' lon='103.9005228' />
+  <node id='2274884872' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4125382' lon='103.9006233' />
+  <node id='2274884873' timestamp='2017-01-12T22:02:46Z' uid='4351550' user='MyWayOrNoHighway' visible='true' version='2' changeset='45118513' lat='1.4129799' lon='103.9008238' />
+  <node id='2274884874' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4145244' lon='103.9075719' />
+  <node id='2274884875' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4149233' lon='103.9077164' />
+  <node id='2274884876' timestamp='2013-04-21T08:56:26Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4150718' lon='103.9014687' />
+  <node id='2274884877' timestamp='2017-02-21T19:23:44Z' uid='3317733' user='bpowell1' visible='true' version='3' changeset='46284336' lat='1.4152094' lon='103.9016281' />
+  <node id='2274884945' timestamp='2017-01-12T22:02:46Z' uid='4351550' user='MyWayOrNoHighway' visible='true' version='2' changeset='45118513' lat='1.4152202' lon='103.90154' />
+  <node id='2274884946' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.415198' lon='103.9077956' />
+  <node id='2274884948' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4151951' lon='103.907753' />
+  <node id='2274884949' timestamp='2017-02-21T19:23:44Z' uid='3317733' user='bpowell1' visible='true' version='3' changeset='46284336' lat='1.4153559' lon='103.9017269' />
+  <node id='2274884951' timestamp='2017-01-12T22:02:46Z' uid='4351550' user='MyWayOrNoHighway' visible='true' version='2' changeset='45118513' lat='1.4153891' lon='103.9016459' />
+  <node id='2274884953' timestamp='2013-04-21T08:56:40Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4154356' lon='103.9078106' />
+  <node id='2274884955' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4156526' lon='103.9077576' />
+  <node id='2274884957' timestamp='2013-04-21T08:56:40Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4156597' lon='103.9078036' />
+  <node id='2274884959' timestamp='2013-04-21T08:56:40Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4157757' lon='103.9019533' />
+  <node id='2274884960' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4158542' lon='103.9077617' />
+  <node id='2274884962' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4160362' lon='103.9076404' />
+  <node id='2274884964' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.416046' lon='103.9076758' />
+  <node id='2274884966' timestamp='2013-04-21T08:56:40Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4161545' lon='103.902274' />
+  <node id='2274884967' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4162195' lon='103.907574' />
+  <node id='2274884969' timestamp='2013-04-21T08:56:41Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4163455' lon='103.9025953' />
+  <node id='2274884971' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.416356' lon='103.9073933' />
+  <node id='2274884973' timestamp='2013-04-21T08:56:41Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='15807798' lat='1.4163997' lon='103.9025139' />
+  <node id='2274884978' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4163689' lon='103.9074399' />
+  <node id='2274884980' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4164836' lon='103.9073278' />
+  <node id='2274884982' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='3' changeset='61822938' lat='1.4166651' lon='103.9071191' />
+  <node id='2274884984' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4168215' lon='103.9068021' />
+  <node id='2274884986' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4169474' lon='103.9034127' />
+  <node id='2274884988' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4169856' lon='103.9064912' />
+  <node id='2274884990' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4171828' lon='103.9038155' />
+  <node id='2274884992' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4172174' lon='103.9060086' />
+  <node id='2274884994' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4172531' lon='103.9057494' />
+  <node id='2274884996' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4173131' lon='103.9057627' />
+  <node id='2274884999' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4173219' lon='103.9041469' />
+  <node id='2274885001' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4173486' lon='103.9041162' />
+  <node id='2274885003' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.41739' lon='103.9055429' />
+  <node id='2274885005' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4174538' lon='103.9053218' />
+  <node id='2274885007' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4174499' lon='103.9044077' />
+  <node id='2274885009' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.417473' lon='103.9048478' />
+  <node id='2274885011' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4174963' lon='103.9046345' />
+  <node id='2274885012' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4174997' lon='103.9050626' />
+  <node id='2274885014' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4175123' lon='103.904857' />
+  <node id='4946665704' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4171133' lon='103.9062269' />
+  <node id='5379987371' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4173628' lon='103.9041423' />
+  <node id='5379987376' timestamp='2018-08-20T13:06:30Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4173842' lon='103.9041977' />
+  <node id='5379987383' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='2' changeset='61822938' lat='1.4171626' lon='103.9061235' />
+  <node id='5435063398' timestamp='2018-02-25T12:07:10Z' uid='741163' user='JaLooNz' visible='true' version='1' changeset='56659338' lat='1.4156687' lon='103.9019784' />
+  <node id='5702120063' timestamp='2018-06-19T11:14:39Z' uid='6157046' user='665-475A' visible='true' version='1' changeset='59974664' lat='1.402178' lon='103.9003767' />
+  <node id='5843925904' timestamp='2018-08-20T13:06:29Z' uid='3065080' user='Siewjy' visible='true' version='1' changeset='61822938' lat='1.4170203' lon='103.9064079' />
+  <node id='6532012974' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4134907' lon='103.9070486' />
+  <node id='6532012975' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4090893' lon='103.9045758' />
+  <node id='6532012981' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4092615' lon='103.9046017' />
+  <node id='6532012982' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4090403' lon='103.9043925' />
+  <node id='6532012983' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4085757' lon='103.9041367' />
+  <node id='6532012984' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4083342' lon='103.9040294' />
+  <node id='6532027385' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4080811' lon='103.9039384' />
+  <node id='6532027391' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='71023159' lat='1.4119605' lon='103.9061613' />
+  <node id='6587709456' timestamp='2019-07-03T23:17:07Z' uid='309382' user='Diego Sanguinetti' visible='true' version='1' changeset='71877794' lat='1.4052749' lon='103.9022357'>
+    <tag k='name' v='Punggol' />
+    <tag k='name:en' v='Punggol' />
+    <tag k='name:ta' v='பொங்கோல்' />
+    <tag k='name:zh' v='榜鹅' />
+    <tag k='network' v='LRT' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='stop' />
+    <tag k='ref' v='PTC' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='6587709457' timestamp='2019-07-03T23:17:07Z' uid='309382' user='Diego Sanguinetti' visible='true' version='1' changeset='71877794' lat='1.4051499' lon='103.9024702'>
+    <tag k='name' v='Punggol' />
+    <tag k='name:en' v='Punggol' />
+    <tag k='name:ta' v='பொங்கோல்' />
+    <tag k='name:zh' v='榜鹅' />
+    <tag k='network' v='LRT' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='stop' />
+    <tag k='ref' v='PTC' />
+    <tag k='station' v='subway' />
+    <tag k='subway' v='yes' />
+  </node>
+  <node id='7114440518' timestamp='2020-01-07T12:53:14Z' uid='3191182' user='angys' visible='true' version='1' changeset='79294369' lat='1.4159493' lon='103.9021003'>
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Samudera' />
+    <tag k='name:ta' v='சமுத்திரா' />
+    <tag k='name:zh' v='山姆' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='stop' />
+    <tag k='ref' v='PW4' />
+  </node>
+  <node id='7114440519' timestamp='2020-01-07T12:53:14Z' uid='3191182' user='angys' visible='true' version='1' changeset='79294369' lat='1.4158934' lon='103.9021722'>
+    <tag k='monorail' v='yes' />
+    <tag k='name' v='Samudera' />
+    <tag k='name:ta' v='சமுத்திரா' />
+    <tag k='name:zh' v='山姆' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='stop' />
+    <tag k='ref' v='PW4' />
+  </node>
+  <way id='173144832' timestamp='2020-01-07T12:53:14Z' uid='3191182' user='angys' visible='true' version='9' changeset='79294369'>
+    <nd ref='2274884681' />
+    <nd ref='411102764' />
+    <nd ref='6532027385' />
+    <nd ref='6532012984' />
+    <nd ref='6532012983' />
+    <nd ref='6532012982' />
+    <nd ref='6532012981' />
+    <nd ref='411102763' />
+    <nd ref='6532027391' />
+    <nd ref='411102762' />
+    <nd ref='1839721922' />
+    <nd ref='411102758' />
+    <nd ref='1167584069' />
+    <nd ref='2274884948' />
+    <nd ref='411102754' />
+    <nd ref='2274884955' />
+    <nd ref='1167584068' />
+    <nd ref='2274884962' />
+    <nd ref='1167584063' />
+    <nd ref='2274884971' />
+    <nd ref='1167584060' />
+    <nd ref='1712357030' />
+    <nd ref='1712357040' />
+    <nd ref='1839721875' />
+    <nd ref='2274884994' />
+    <nd ref='1712357087' />
+    <nd ref='411102747' />
+    <nd ref='1712357091' />
+    <nd ref='2274885009' />
+    <nd ref='1712357092' />
+    <nd ref='411102738' />
+    <nd ref='2274884999' />
+    <nd ref='1712357089' />
+    <nd ref='1712357076' />
+    <nd ref='2274884969' />
+    <nd ref='411102735' />
+    <nd ref='7114440519' />
+    <nd ref='1712357001' />
+    <nd ref='5435063398' />
+    <nd ref='2274884949' />
+    <nd ref='2274884877' />
+    <nd ref='411102732' />
+    <nd ref='411102730' />
+    <nd ref='1748996475' />
+    <nd ref='1748996469' />
+    <nd ref='411102726' />
+    <nd ref='2274884850' />
+    <nd ref='1839721918' />
+    <nd ref='2274884807' />
+    <nd ref='2274884769' />
+    <nd ref='411102724' />
+    <nd ref='411102721' />
+    <nd ref='2274884362' />
+    <nd ref='2274884034' />
+    <nd ref='411102718' />
+    <nd ref='2274883456' />
+    <nd ref='411102715' />
+    <nd ref='1839722280' />
+    <nd ref='411102713' />
+    <nd ref='2274882934' />
+    <nd ref='2274882847' />
+    <nd ref='2274882753' />
+    <nd ref='2274882492' />
+    <nd ref='2274882141' />
+    <nd ref='2274882069' />
+    <nd ref='2274882038' />
+    <nd ref='2274882056' />
+    <nd ref='2274882119' />
+    <nd ref='2274882241' />
+    <nd ref='2274882434' />
+    <nd ref='2274883357' />
+    <nd ref='2274883439' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='rail' />
+    <tag k='layer' v='2' />
+    <tag k='railway' v='monorail' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='voltage' v='750' />
+  </way>
+  <way id='173144836' timestamp='2020-01-07T12:53:14Z' uid='3191182' user='angys' visible='true' version='12' changeset='79294369'>
+    <nd ref='2274883438' />
+    <nd ref='2274883134' />
+    <nd ref='411102766' />
+    <nd ref='411102767' />
+    <nd ref='2274881964' />
+    <nd ref='411102768' />
+    <nd ref='5702120063' />
+    <nd ref='2085848759' />
+    <nd ref='2274881946' />
+    <nd ref='411102707' />
+    <nd ref='411102710' />
+    <nd ref='2274882650' />
+    <nd ref='2274882756' />
+    <nd ref='2274882862' />
+    <nd ref='2274882961' />
+    <nd ref='2274883080' />
+    <nd ref='2274883267' />
+    <nd ref='2274883463' />
+    <nd ref='2274883603' />
+    <nd ref='2274884044' />
+    <nd ref='2274884379' />
+    <nd ref='2274884602' />
+    <nd ref='2274884731' />
+    <nd ref='2274884770' />
+    <nd ref='2274884810' />
+    <nd ref='2274884838' />
+    <nd ref='2274884851' />
+    <nd ref='2274884865' />
+    <nd ref='2274884867' />
+    <nd ref='2274884869' />
+    <nd ref='2274884872' />
+    <nd ref='2274884873' />
+    <nd ref='2274884876' />
+    <nd ref='2274884945' />
+    <nd ref='2274884951' />
+    <nd ref='2274884959' />
+    <nd ref='7114440518' />
+    <nd ref='2274884966' />
+    <nd ref='2274884973' />
+    <nd ref='2274884986' />
+    <nd ref='2274884990' />
+    <nd ref='2274885001' />
+    <nd ref='5379987371' />
+    <nd ref='5379987376' />
+    <nd ref='2274885007' />
+    <nd ref='2274885011' />
+    <nd ref='2274885014' />
+    <nd ref='2274885012' />
+    <nd ref='2274885005' />
+    <nd ref='2274885003' />
+    <nd ref='2274884996' />
+    <nd ref='2274884992' />
+    <nd ref='5379987383' />
+    <nd ref='4946665704' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='rail' />
+    <tag k='layer' v='2' />
+    <tag k='railway' v='monorail' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='voltage' v='750' />
+  </way>
+  <way id='218215444' timestamp='2019-07-03T23:17:07Z' uid='309382' user='Diego Sanguinetti' visible='true' version='4' changeset='71877794'>
+    <nd ref='2274884782' />
+    <nd ref='2274884573' />
+    <nd ref='2274884357' />
+    <nd ref='6587709457' />
+    <nd ref='2274884006' />
+    <nd ref='2274883752' />
+    <nd ref='2274883438' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='rail' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='monorail' />
+    <tag k='voltage' v='750' />
+  </way>
+  <way id='218215445' timestamp='2019-07-03T23:17:07Z' uid='309382' user='Diego Sanguinetti' visible='true' version='4' changeset='71877794'>
+    <nd ref='2274883439' />
+    <nd ref='2274883772' />
+    <nd ref='2274883899' />
+    <nd ref='2274884038' />
+    <nd ref='6587709456' />
+    <nd ref='411102765' />
+    <nd ref='2274884600' />
+    <nd ref='2274884681' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='rail' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='monorail' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='voltage' v='750' />
+  </way>
+  <way id='601849934' timestamp='2019-06-07T13:06:04Z' uid='18069' user='Claudius Henrichs' visible='true' version='3' changeset='71023159'>
+    <nd ref='4946665704' />
+    <nd ref='5843925904' />
+    <nd ref='2274884988' />
+    <nd ref='2274884984' />
+    <nd ref='2274884982' />
+    <nd ref='2274884980' />
+    <nd ref='2274884978' />
+    <nd ref='2274884967' />
+    <nd ref='2274884964' />
+    <nd ref='2274884960' />
+    <nd ref='2274884957' />
+    <nd ref='2274884953' />
+    <nd ref='2274884946' />
+    <nd ref='2274884875' />
+    <nd ref='2274884874' />
+    <nd ref='6532012974' />
+    <nd ref='2274884868' />
+    <nd ref='2274884866' />
+    <nd ref='2274884858' />
+    <nd ref='6532012975' />
+    <nd ref='2274884820' />
+    <nd ref='2274884782' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='rail' />
+    <tag k='layer' v='2' />
+    <tag k='railway' v='monorail' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='voltage' v='750' />
+  </way>
+  <relation id='2312984' timestamp='2019-07-05T20:42:11Z' uid='309382' user='Diego Sanguinetti' visible='true' version='16' changeset='71944963'>
+    <member type='node' ref='6587709457' role='stop' />
+    <member type='node' ref='1840734608' role='stop' />
+    <member type='node' ref='1840734610' role='stop' />
+    <member type='node' ref='1840734598' role='stop' />
+    <member type='node' ref='1840734607' role='stop' />
+    <member type='node' ref='1840734600' role='stop' />
+    <member type='node' ref='1840734614' role='stop_inactive' />
+    <member type='node' ref='1840734606' role='stop' />
+    <member type='node' ref='6587709457' role='stop' />
+    <member type='way' ref='173144836' role='' />
+    <member type='way' ref='601849934' role='' />
+    <member type='way' ref='218215444' role='' />
+    <tag k='colour' v='#748477' />
+    <tag k='description' v='Punggol Light Rapid Transit (West Loop) Clockwise service D' />
+    <tag k='name' v='LRT Punggol Line (West Loop)' />
+    <tag k='network' v='Singapore Rail' />
+    <tag k='official_ref' v='Punggol LRT' />
+    <tag k='operator' v='SBS Transit' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='PGLRT' />
+    <tag k='roundtrip' v='yes' />
+    <tag k='route' v='monorail' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='9663920' timestamp='2019-07-05T20:42:11Z' uid='309382' user='Diego Sanguinetti' visible='true' version='8' changeset='71944963'>
+    <member type='node' ref='6587709456' role='stop' />
+    <member type='node' ref='1840734606' role='stop' />
+    <member type='node' ref='1840734614' role='stop_inactive' />
+    <member type='node' ref='1840734600' role='stop' />
+    <member type='node' ref='1840734607' role='stop' />
+    <member type='node' ref='1840734598' role='stop' />
+    <member type='node' ref='1840734610' role='stop' />
+    <member type='node' ref='1840734608' role='stop' />
+    <member type='node' ref='6587709456' role='stop' />
+    <member type='way' ref='173144832' role='' />
+    <member type='way' ref='218215445' role='' />
+    <tag k='colour' v='#748477' />
+    <tag k='description' v='Punggol Light Rapid Transit (West Loop) Anti-clockwise service C' />
+    <tag k='name' v='LRT Punggol Line (West Loop)' />
+    <tag k='network' v='Singapore Rail' />
+    <tag k='official_ref' v='Punggol LRT' />
+    <tag k='operator' v='SBS Transit' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='PGLRT' />
+    <tag k='roundtrip' v='yes' />
+    <tag k='route' v='monorail' />
+    <tag k='type' v='route' />
+  </relation>
+</osm>
