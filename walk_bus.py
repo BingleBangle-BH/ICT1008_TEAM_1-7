@@ -866,11 +866,14 @@ def walk_bus_algor(start,end):
         count = 99
         for x in range (0, len(end2)):
                 final_route_list = bus_layer(1847853709, end2[x][1], bus_results, None)
-                if len(final_route_list) < count:
-                    path1[path1_end_count][0] = 4598672210
-                    path2_end_count = x
-                    temp_route_list = final_route_list.copy()
-                    count = len(temp_route_list)
+                try:
+                    if len(final_route_list) < count:
+                        path1[path1_end_count][0] = 4598672210
+                        path2_end_count = x
+                        temp_route_list = final_route_list.copy()
+                        count = len(temp_route_list)
+                except:
+                    continue
     else:
         count = 99
         if len(final_route_list) == 0:
@@ -890,7 +893,7 @@ def walk_bus_algor(start,end):
     walking_Path1 = []
     walking_Path2 = []
     bus_path = []
-
+    walking_Path2.append((end[1], end[0]))
     for x in path1:
         walking_Path1.append(find_XY(x, G))
     for x in path2:
