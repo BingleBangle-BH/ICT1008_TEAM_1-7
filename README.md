@@ -14,7 +14,8 @@ Contents | Built With
 **Punggol Traveller** is a web mapping service that offers an open street map and interactive route planning for traveling by foot, bus and trains. By using Punggol traveller, users will be able to get around the district quickly from one to another in the shortest time span. 
 
 **Internet connection is required for this application to run.**
-**The application will take a while to start up due to the creations of multi-dimensional graphs.**
+
+**The application will take some time to start up due to the creations of multi-dimensional graphs.**
 
 ## Installing Environment with .YML
 
