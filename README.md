@@ -1,7 +1,12 @@
-# ICT1008 Python Project (DSA)<!-- omit in toc -->
+# ICT1008 Python Project (DSA)
 
 ## Table of Contents <!-- omit in toc -->
-* [Punggol Traveller](#punggol-traveller)
+
+Contents | Dependencies
+---------|-------------
+[Punggol Traveller](#punggol-traveller)|[Python 3.7](https://docs.python.org/3.7/) - Language used
+
+[Punggol Traveller](#punggol-traveller)
 * [Installing Environment with .YML](#Installing-Environment-with-YML)
 * [Running Application](#running-application)
 * [Built With](#built-with)
