@@ -19,7 +19,7 @@
 
 1. Download and install [Anaconda Navigator](https://www.anaconda.com/distribution/) for Python 3.7.
 
-2. Open Anaconda Navigator and click on Environment![Environment](https://ibb.co/SsQ1Dq8)
+2. Open Anaconda Navigator and click on Environment![Environment](https://i.ibb.co/TvKnDzS/step-2.png)
 
 3. Click on import ![Import](https://ibb.co/bWVpxYX)
 
