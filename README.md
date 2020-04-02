@@ -2,25 +2,23 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-Contents | Dependencies
+Contents | Built With 
 ---------|-------------
-[Punggol Traveller](#punggol-traveller)|[Python 3.7](https://docs.python.org/3.7/) - Language used
-
-[Punggol Traveller](#punggol-traveller)
-* [Installing Environment with .YML](#Installing-Environment-with-YML)
-* [Running Application](#running-application)
-* [Built With](#built-with)
-* [Project Details](#project-details)
-* [Collaborators with Contributions](#collaborators-with-contributions)
+[Punggol Traveller](#punggol-traveller)|[Python 3.7](https://docs.python.org/3.7/) 
+ [Installing Environment with .YML](#Installing-Environment-with-YML) | [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+ [Running Application](#running-application) | [Geopy](https://geopy.readthedocs.io/en/stable/)
+ [Built With](#built-with) | [Folium](https://python-visualization.github.io/folium/) 
+ [Project Details](#project-details) | [Osmnx](https://osmnx.readthedocs.io/en/stable/)
+ [Collaborators with Contributions](#collaborators-with-contributions) | [LTADataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport/)
 
 ## Punggol Traveller
 
 **Punggol Traveller** is a web mapping service that offers an open street map and interactive route planning for traveling by foot, bus and trains. By using Punggol traveller, users will be able to get around the district quickly from one to another in the shortest time span. 
 
+**Internet connection is required for this application to run.**
+**The application will take a while to start up due to the creations of multi-dimensional graphs.**
 
-## Getting Started
-
-### Installing Environment with .YML
+## Installing Environment with .YML
 
 1. Download and install [Anaconda Navigator](https://www.anaconda.com/distribution/) for Python 3.7.
 
@@ -42,20 +40,6 @@ Contents | Dependencies
 
     Bryan fill this up
     
-**Do take note that the application will take a while to start up due to the creations of multi-dimensional graphs.**
-
-**Do note that internet connection is required for this application to run.**
-
-## Built With
-
-* [Python 3.7](https://docs.python.org/3.7/) - Language used
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/) - The web framework used
-* [Geopy](https://geopy.readthedocs.io/en/stable/) - Used for geocoding and reverse geocoding
-* [Folium](https://python-visualization.github.io/folium/) - Used for rendering of map
-* [Osmnx](https://osmnx.readthedocs.io/en/stable/) - Graph creation
-* [LTADataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport/) - Bus routes
-
-
 ## Project Details
 
 Implementing and plotting network
