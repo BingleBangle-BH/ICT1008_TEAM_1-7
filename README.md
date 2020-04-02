@@ -10,7 +10,7 @@
 
 ## Punggol Traveller
 
-**Punggol Traveller** is a web mapping service that offers an open street map and interactive route planning for traveling by foot, bus and trains. By using Punggol map, users will be able to get around the district quickly from one to another in the shortest time span. 
+**Punggol Traveller** is a web mapping service that offers an open street map and interactive route planning for traveling by foot, bus and trains. By using Punggol traveller, users will be able to get around the district quickly from one to another in the shortest time span. 
 
 
 ## Getting Started
