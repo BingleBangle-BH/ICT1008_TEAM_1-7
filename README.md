@@ -20,12 +20,15 @@
 1. Download and install [Anaconda Navigator](https://www.anaconda.com/distribution/) for Python 3.7.
 
 2. Open Anaconda Navigator and click on Environments
+
 ![Environment](https://i.ibb.co/mB0H9nz/step-2.png)
 
 3. Click on import
+
 ![Import](https://i.ibb.co/LC5yj9G/step-3.png)
 
 4. Name your environment and choose DSA_ICT1008_Libraries.yml (Located in setup) in specification file 
+
 ![Import](https://i.ibb.co/FY1qZ7H/step-4.png)
 
 5. Upon doing so, anaconda will start installing the package environment. Select this newly created environment as your interpreter.
