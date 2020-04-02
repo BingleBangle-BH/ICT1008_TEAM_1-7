@@ -2,7 +2,7 @@
 
 ## Table of Contents <!-- omit in toc -->
 * [Punggol Traveller](#punggol-traveller)
-* [Installing Environment with .YML](#installing-environment)
+* [Installing Environment with .YML](#Installing-Environment-with-YML)
 * [Running Application](#running-application)
 * [Built With](#built-with)
 * [Project Details](#project-details)
