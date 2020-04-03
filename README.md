@@ -39,7 +39,17 @@ Contents | Built With
 
 ## Running Application
 
-    Bryan fill this up
+6. Open the terminal of the anaconda environment from Step 5.
+
+7. Change the directory of the terminal to the folder where the file '1008Proj.py' is located.
+
+8. Enter the next three lines into the terminal:
+	set FLASK_APP=1008Proj.py
+	set FLASK_DEBUG=1
+	flask run
+
+9. The console will print out a URL, copy that url, adding home to the end of it, and run it in your browser.
+	(e.g. http://128.0.0.1:5000/home)
     
 ## Project Details
 
