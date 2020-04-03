@@ -7,7 +7,7 @@ Contents | Built With
  [Running Application](#running-application) | [Geopy](https://geopy.readthedocs.io/en/stable/)
 [Project Details](#project-details) | [Folium](https://python-visualization.github.io/folium/) 
   [Collaborators with Contributions](#collaborators-with-contributions) | [Osmnx](https://osmnx.readthedocs.io/en/stable/)
-   | [LTADataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport/)
+  . | [LTADataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport/)
 
 ## Punggol Traveller
 
