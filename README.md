@@ -43,13 +43,19 @@ Contents | Built With
 
 7. Change the directory of the terminal to the folder where the file '1008Proj.py' is located.
 
+![Import](https://i.ibb.co/pWLrmyH/1008-Report-3.png)
+
 8. Enter the next three lines into the terminal:
 	set FLASK_APP=1008Proj.py
 	set FLASK_DEBUG=1
 	flask run
 
+![Import](https://i.ibb.co/cJ5zWLL/1008-Report-2.png)
+
 9. The console will print out a URL, copy that url, adding home to the end of it, and run it in your browser.
 	(e.g. http://128.0.0.1:5000/home)
+
+![Import](https://i.ibb.co/ys7qLDt/1008-Report-1.png)
     
 ## Project Details
 
