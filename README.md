@@ -5,9 +5,9 @@ Contents | Built With
 [Punggol Traveller](#punggol-traveller)|[Python 3.7](https://docs.python.org/3.7/) 
  [Installing Environment with .YML](#Installing-Environment-with-YML) | [Flask](https://flask.palletsprojects.com/en/1.1.x/)
  [Running Application](#running-application) | [Geopy](https://geopy.readthedocs.io/en/stable/)
- [Built With](#built-with) | [Folium](https://python-visualization.github.io/folium/) 
- [Project Details](#project-details) | [Osmnx](https://osmnx.readthedocs.io/en/stable/)
- [Collaborators with Contributions](#collaborators-with-contributions) | [LTADataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport/)
+[Project Details](#project-details) | [Folium](https://python-visualization.github.io/folium/) 
+  [Collaborators with Contributions](#collaborators-with-contributions) | [Osmnx](https://osmnx.readthedocs.io/en/stable/)
+ | [LTADataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html#Public%20Transport/)
 
 ## Punggol Traveller
 
