@@ -65,5 +65,5 @@ Implementing and plotting network
 
 1. **Chin Bing Hong** | [@skyarebiue](https://github.com/skyarebiue) | Dijkstra and A* Algorithm, Bus + Walk
 2. **Chang Lik Jack** | [@yolothedino](https://github.com/yolothedino) | Greedy Algorithm, LRT/MRT + Walk
-3. **Bryan Sim** | [@BryanSim-SIT](https://github.com/BryanSim-SIT)  | GUI
-4. **Miki Tan** | [@MTKL1106](https://github.com/MTKL1106) | 
+3. **Bryan Sim** | [@BryanSim-SIT](https://github.com/BryanSim-SIT)  | GUI, Poster
+4. **Miki Tan** | [@MTKL1106](https://github.com/MTKL1106) | Poster
