@@ -53,7 +53,7 @@ Contents | Built With
 ![Import](https://i.ibb.co/cJ5zWLL/1008-Report-2.png)
 
 9. The console will print out a URL, copy that url, adding home to the end of it, and run it in your browser.
-	(e.g. http://128.0.0.1:5000/home)
+	(e.g. http://127.0.0.1:5000/home)
 
 ![Import](https://i.ibb.co/ys7qLDt/1008-Report-1.png)
     
