@@ -43,7 +43,7 @@ Contents | Built With
 
 7. Change the directory of the terminal to the folder where the file '1008Proj.py' is located.
 
-![Import](https://i.ibb.co/pWLrmyH/1008-Report-3.png)
+![Import](https://i.ibb.co/94NKR0y/1008-Report-4.png)
 
 8. Enter the next three lines into the terminal:
 	set FLASK_APP=1008Proj.py
